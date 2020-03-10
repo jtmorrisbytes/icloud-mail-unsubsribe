@@ -12,6 +12,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "imap": "^0.8.19",
-    "imap-simple": "^4.3.0"
+    "imap-simple": "^4.3.0",
+    "sqlite3": "^4.1.1"
   }
 }
