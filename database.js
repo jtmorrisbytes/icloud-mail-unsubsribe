@@ -54,9 +54,3 @@ function createUser(userID, email, password, username) {
     })
   );
 }
-
-getUserById(userID) {
-    db = new sqlite3.Database(
-        dbconnectionString,
-    )
-}

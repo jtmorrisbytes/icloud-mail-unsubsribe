@@ -13,6 +13,8 @@
     "dotenv": "^8.2.0",
     "imap": "^0.8.19",
     "imap-simple": "^4.3.0",
+    "readline-sync": "^1.4.10",
+    "smtp-client": "^0.3.1",
     "sqlite3": "^4.1.1"
   }
 }
